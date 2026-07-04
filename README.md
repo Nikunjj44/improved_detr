@@ -56,6 +56,7 @@ Future work could explore training the improved model for more epochs to determi
 ## Academic Context
 Completed during my Graduate studies at **Nanyang Technological University (NTU), Singapore**.
 
+* **Course** Deep Learning & Applications
 * **Semester:** AY 2025/2026, Semester 2
 
 ## Usage
